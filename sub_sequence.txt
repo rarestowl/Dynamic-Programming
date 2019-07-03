@@ -18,6 +18,12 @@ Basic:
 36. LCS (Longest Common Subsequence) of three strings (https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/)
 
 Palindromic Subsequence:-
-Basic:
+Intermediate:
+29. Longest Palindromic Subsequence (https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/)
+30. Print Longest Palindromic Subsequence (https://www.geeksforgeeks.org/print-longest-palindromic-subsequence/)
+31. Longest palindrome subsequence with O(n) space (https://www.geeksforgeeks.org/longest-palindrome-subsequence-space/)
+32. Count All Palindromic Subsequence in a given String (https://www.geeksforgeeks.org/count-palindromic-subsequence-given-string/)
+35. Number of palindromic subsequences of length k(https://www.geeksforgeeks.org/number-of-palindromic-subsequences-of-length-k-where-k/)
+
                                                        
 
