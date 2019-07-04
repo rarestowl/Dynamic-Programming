@@ -25,5 +25,12 @@ Intermediate:
 32. Count All Palindromic Subsequence in a given String (https://www.geeksforgeeks.org/count-palindromic-subsequence-given-string/)
 35. Number of palindromic subsequences of length k(https://www.geeksforgeeks.org/number-of-palindromic-subsequences-of-length-k-where-k/)
 
+Matrix Chain Multiplication:-
+Hard:
+8. Matrix Chain Multiplication (https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/)
+9. Printing brackets in Matrix Chain Multiplication Problem (https://www.geeksforgeeks.org/printing-brackets-matrix-chain-multiplication-problem/)
+
+
+
                                                        
 
