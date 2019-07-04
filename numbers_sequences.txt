@@ -1,0 +1,25 @@
+Basic:
+1. Ugly Numbers
+2. Program for Fibonacci numbers
+3. Program for nth Catalan Number
+4. Bell Numbers (Number of ways to Partition a Set)
+5. Permutation Coefficient
+16.
+21.
+22.
+23
+24.
+25.
+26.
+27.
+28.
+29.
+
+Intermediate:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
