@@ -1,8 +1,16 @@
+//remember nCr/nC(r-1) = (n+1-r)/r  ==> nCr=(nCr*(n+1-r))/r;
 Tiling Problem:
 Basic:
-7. Tiling Problem (https://www.geeksforgeeks.org/tiling-problem/)
-              
+7.  Tiling Problem (https://www.geeksforgeeks.org/tiling-problem/)
+9.  Friends Pairing Problem (https://www.geeksforgeeks.org/friends-pairing-problem/)
+19. Tiling with Dominoes (https://www.geeksforgeeks.org/tiling-with-dominoes/)
+20. Painting Fence Algorithm (https://www.geeksforgeeks.org/painting-fence-algorithm/)
+30. Count even length binary sequences with same sum of first and second half bits
+31. Sequences of given length where every element is more than or equal to twice of previous
 
+Gold Mine Problem:
+Basic:
+8. Gold Mine Problem (https://www.geeksforgeeks.org/gold-mine-problem/)
 
 0/1 Knapsack Problem:
 Intermediate:
