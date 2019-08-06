@@ -31,3 +31,5 @@ Hard:
 8. Matrix Chain Multiplication (https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/)
 9. Printing brackets in Matrix Chain Multiplication Problem (https://www.geeksforgeeks.org/printing-brackets-matrix-chain-multiplication-problem/)                                                      
 
+Word Break Problem
+Boolean parenthisation problem
