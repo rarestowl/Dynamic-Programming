@@ -32,7 +32,22 @@
 32.
 33. Longest Palindromic Substring  (https://www.geeksforgeeks.org/longest-palindromic-substring-set-2/)
 34. Count All Palindrome Sub-Strings in a String (https://www.geeksforgeeks.org/count-palindrome-sub-strings-string-set-2/)
-
+35.
+36.
+37. Shortest Common Supersequence
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48. Longest Increasing Odd Even Subsequence
+49.
+50. 
 
 
 https://www.geeksforgeeks.org/find-number-distinct-palindromic-sub-strings-given-string/
