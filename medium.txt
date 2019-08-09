@@ -1,10 +1,3 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
 8.
 9.
 10. 0-1 Knapsack Problem 
@@ -13,7 +6,7 @@
 13. temple offering
 14. egg dropping puzzle(dp)
 15. dice throw problem
-16. word break Problem (dp, backtracking, trie)
+16. word break Problem (dp, backtracking, trie)------
 17. 
 18. 
 19. Box Stacking Problem
