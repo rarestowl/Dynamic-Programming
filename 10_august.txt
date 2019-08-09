@@ -1,0 +1,38 @@
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10. 0-1 Knapsack Problem 
+11. printing 0-1 Knapsack Problem
+12. unbounded knapsack Problem
+13. temple offering
+14. egg dropping puzzle(dp)
+15. dice throw problem
+16. word break Problem (dp, backtracking, trie)
+17. 
+18. 
+19. Box Stacking Problem
+20. Highway Billboard Problem
+21. Largest Independent Set Size Problem (no direct connection)
+22. Partition Problem(subset sum with sum/2) 
+23. NA  Print equal sum sets of array (Partition Problem) | Set 1
+24. Print equal sum sets of array (Partition Problem) | Set 2
+25. High-effort vs. Low-effort Tasks Problem
+26. 
+27. Longest Bitonic Subsequence
+28. printing Longest Bitonic Subsequence
+29. Longest Palindromic Subsequence
+30.
+31.
+32.
+33. Longest Palindromic Substring  (https://www.geeksforgeeks.org/longest-palindromic-substring-set-2/)
+34. Count All Palindrome Sub-Strings in a String (https://www.geeksforgeeks.org/count-palindrome-sub-strings-string-set-2/)
+
+
+
+https://www.geeksforgeeks.org/find-number-distinct-palindromic-sub-strings-given-string/
