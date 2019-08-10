@@ -4,7 +4,7 @@ Basic:
 3. Program for nth Catalan Number
 4. Bell Numbers (Number of ways to Partition a Set)
 5. Permutation Coefficient
-16.
+16. Compute nCr % p
 21.
 22.
 23
