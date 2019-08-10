@@ -1,4 +1,24 @@
-8.
+8. Gold Mine Problem
+9. 
+10.
+11. Subset Sum Problem / O(sum) space
+13.
+14.
+15.
+17.
+18.
+19.
+20.
+21.
+32. Longest Common Subsequence(2 or 3 strings) / Longest Repeated Subsequence / Space Optimized Solution of LCS
+34. Longest Increasing Subsequence 
+37. Maximum sum Bi-tonic Sub-sequence | Maximum sum/product of an increasing subsequence
+40. Count all subsequences having product less than K
+41. Maximum subsequence sum such that no three are consecutive
+42. Longest subsequence such that difference between adjacents is one
+43. (https://www.geeksforgeeks.org/maximum-length-subsequence-difference-adjacent-elements-either-0-1-set-2/)
+44. 
+
 73. Longest Common Substring / Longest Common Substring (Space Optimised)
 75. Sum of all substrings of a string representing a number | Set 1
 76. 
@@ -9,12 +29,10 @@
 83. Count ways to build street under given constraints
 84. Count Balanced Binary Trees of Height h
 85.
-86.
-87.
+86. Count paths from a point to reach Origin
 88.
 89.
-90. Count the number of ways to tile the floor of size n x m using 1 x m size tiles
-91. 
+90. Count the number of ways to tile the floor of size n x m using 1 x m size tiles 
 93. Largest Sum Contiguous Subarray / Smallest Sum Contiguous Subarray
 95.
 96.
