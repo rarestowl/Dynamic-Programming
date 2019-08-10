@@ -14,6 +14,8 @@ Basic:
 27.
 28.
 29.
+77. Find n-th element from Stern’s Diatomic Series
+
 
 Intermediate:
 1.
