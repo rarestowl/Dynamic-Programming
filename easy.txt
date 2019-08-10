@@ -18,6 +18,13 @@
 42. Longest subsequence such that difference between adjacents is one
 43. (https://www.geeksforgeeks.org/maximum-length-subsequence-difference-adjacent-elements-either-0-1-set-2/)
 44. 
+45. Maximum Length Chain of Pairs | Print Maximum Length Chain of Pairs
+47. Path with maximum average/sum value in a matrix
+48. 
+49. Maximum/Minimum path sum in a triangle/(right).
+53.
+54. Maximum size square sub-matrix with all 1s
+57. 
 
 73. Longest Common Substring / Longest Common Substring (Space Optimised)
 75. Sum of all substrings of a string representing a number | Set 1
@@ -25,7 +32,7 @@
 78. Find maximum possible stolen value from houses
 79. 
 80. Count number of ways to reach a given score in a game
-81. Count ways to reach the nth stair using step 1, 2 or 3
+81. Count ways to reach the nth stair using step 1, 2 or 3 // see 55, 56, 57
 83. Count ways to build street under given constraints
 84. Count Balanced Binary Trees of Height h
 85.
@@ -33,7 +40,7 @@
 88.
 89.
 90. Count the number of ways to tile the floor of size n x m using 1 x m size tiles 
-93. Largest Sum Contiguous Subarray / Smallest Sum Contiguous Subarray
+93. Largest Sum Contiguous Subarray / Smallest Sum Contiguous Subarray / Size of The Subarray With Maximum Sum
 95.
 96.
 97.
