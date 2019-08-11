@@ -19,12 +19,13 @@
 43. (https://www.geeksforgeeks.org/maximum-length-subsequence-difference-adjacent-elements-either-0-1-set-2/)
 44. 
 45. Maximum Length Chain of Pairs | Print Maximum Length Chain of Pairs
-47. Path with maximum average/sum value in a matrix
+47. Path with maximum average/sum value in a matrix || Maximum weight path ending at any element of last row in a matrix
 48. 
 49. Maximum/Minimum path sum in a triangle/(right).
 53.
 54. Maximum size square sub-matrix with all 1s
-57. 
+59. Maximum sum in a 2 x n grid such that no two elements are adjacent
+
 
 73. Longest Common Substring / Longest Common Substring (Space Optimised)
 75. Sum of all substrings of a string representing a number | Set 1
