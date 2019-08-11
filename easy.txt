@@ -25,15 +25,19 @@
 53.
 54. Maximum size square sub-matrix with all 1s
 59. Maximum sum in a 2 x n grid such that no two elements are adjacent
-
-
+60. Maximum difference of zeros and ones in binary string /Maximum subarray sum in an array created after repeated concatenation
+61. 
+62.
+65. min cost path (See 64)
+71. Edit Distance
+72. Minimum time to write characters using insert, delete and copy operation
 73. Longest Common Substring / Longest Common Substring (Space Optimised)
 75. Sum of all substrings of a string representing a number | Set 1
 76. 
 78. Find maximum possible stolen value from houses
 79. 
 80. Count number of ways to reach a given score in a game
-81. Count ways to reach the nth stair using step 1, 2 or 3 // see 55, 56, 57
+81. Count ways to reach the nth stair using step 1, 2 or 3 // see 55, 56, 57, 70
 83. Count ways to build street under given constraints
 84. Count Balanced Binary Trees of Height h
 85.
